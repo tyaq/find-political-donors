@@ -2,6 +2,10 @@
   "name": "find-political-donors",
   "version": "1.0.0",
   "description": "This is the directory where your source code would reside.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyaq/find-political-donors.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
